@@ -9,7 +9,7 @@
 <h2 align = "center"> A Personal Webnovel</h2>
 
 ## Contributor
-- Muhammad Fadillah Hasan
+- Muhammad Fadillah Hassan
 - Muhammad Naufal Furqan
 <p><em>We both are student from <a href="https://ulm.ac.id/id/">University of Lambung Mangkurat</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
